@@ -1,2 +1,2 @@
 # jenkins-pipeline-tutorial
-Jenkins Pipeline Tutorial
+Repo with Jenkins file configured with webhook to push to Jenkins and build automatically.
